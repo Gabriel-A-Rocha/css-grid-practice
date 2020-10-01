@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Piazzolla", serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+div {
+  border: 2px solid rgb(65, 65, 65);
+  margin: 1px;
+  padding: 0.8rem;
+}
